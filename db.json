@@ -1,0 +1,197 @@
+{
+  "Fliondeso": {
+    "Hotels":{
+      "Best Western": [
+        "$$",
+        "***",
+        "Markus Square Station"
+      ],
+      "Quality Inn": [
+        "$",
+        "**",
+        "King Circle Station"
+      ],
+      "Hilton Hotel and Resort": [
+        "$$$$",
+        "***",
+        "King Circle Station"
+      ],
+      "Markus Square Bed and Breakfast": [
+        "$$$",
+        "*****",
+        "Markus Square Station"
+      ],
+      "Fliondeso Motel": [
+        "$",
+        "*",
+        "King Circle Station"
+      ]
+    },
+    "Restaurants": {
+      "DiMaggio's": [
+        "$",
+        "****",
+        "73rd Street Station"
+      ],
+      "Kyle's Bar and Grill": [
+        "$$$",
+        "**",
+        "Seilu Station"
+      ],
+      "Big Fork": [
+        "$$",
+        "****",
+        "47th Street Station"
+      ],
+      "The Green Machine": [
+        "$$$",
+        "***",
+        "6th Avenue Station"
+      ],
+      "Olga's Russian Food": [
+        "$$$$$",
+        "*****",
+        "King Circle Station"
+      ],
+      "Fliondeso Restaurant": [
+        "$$$",
+        "*",
+        "Markus Square Station"
+      ]
+    },
+    "Landmarks": {
+      "Queens's Garden": [
+        "Park",
+        "*****",
+        "$$",
+        "73rd Street Station"
+      ],
+      "Fliondeso Castle": [
+        "Building/Arena",
+        "****",
+        "$",
+        "Markus Square"
+      ],
+      "Fliondeso Zoo": [
+        "Zoo",
+        "**",
+        "$$$",
+        "Seilu Station"
+      ],
+      "Landeline": [
+        "Park",
+        "*",
+        "free",
+        "25th Street Station"
+      ],
+      "National Museum": [
+        "Museum",
+        "***",
+        "$",
+        "66th Street Station"
+      ],
+      "Fliondeso Museum of Modern Art": [
+        "Museum",
+        "***",
+        "$$$",
+        "6th Avenue Station"
+      ],
+      "Fliondeso Concert Hall": [
+        "Entertainment",
+        "****",
+        "$$",
+        "6th Avenue Station"
+      ],
+      "Vesat": [
+        "Entertainment",
+        "****",
+        "$$$$$",
+        "8th Avenue Station"
+      ],
+      "Fliondeso Arena": [
+        "Athletic",
+        "***",
+        "$$$$",
+        "King Circle Station"
+      ],
+      "Hatib Marina": [
+        "Recreation",
+        "*****",
+        "free",
+        "Onama Street Station"
+      ]
+    },
+    "Transportation": {
+      "Rail":[
+        "Markus Square Station"
+      ],
+      "Bus":[
+        "Markus Square Station",
+        "King Circle Station"
+      ],
+      "Air":{
+        "Fliondeso Airport": "25km",
+        "Boten Regional Airport": "40km"
+      },
+      "Subway":{
+        "Green Line":{
+          "92nd Street Station": "0km",
+          "73rd Street Station": "2km",
+          "47th Street Station": "5km",
+          "25th Street Station": "7km",
+          "12th Street Station": "8km",
+          "3rd Street Station": "9km"
+        },
+        "Red Line":{
+          "North Street Station": "0km",
+          "Markus Square Station": "2km",
+          "66th Street Station": "3km",
+          "37th Street Station": "6km",
+          "King Circle Station": "7km",
+          "South Street Station": "10km"
+        },
+        "Orange Line":{
+          "North Street Station": "0km",
+          "Willard Corner Station": "3km",
+          "44th Street Station": "6km",
+          "Eastman Market Station": "7km",
+          "Onama Street Station": "8km",
+          "Seilu Station": "9km"
+        },
+        "Yellow Line":{
+          "Flin Street Station": "0km",
+          "73rd Street Station": "3km",
+          "6th Avenue Station": "4km",
+          "Markus Square Station": "6km",
+          "Willard Corner Station": "7km"
+        },
+        "Blue Line":{
+          "1st Avenue Station": "0km",
+          "2nd Avenue Station": "1km",
+          "47th Street Station": "4km",
+          "Markus Square Station": "7km",
+          "8th Avenue Station": "8km",
+          "10th Avenue Station": "10km"
+        },
+        "Purple Line":{
+          "2nd Avenue Station": "0km",
+          "25th Street Station": "3km",
+          "King Circle Station": "5km",
+          "Eastman Market Station": "7km"
+        }
+      }
+    },
+    "Education":[
+      "University of Fliondeso",
+      "Fliondeso Business School",
+      "Metropolitan University College",
+      "IT University of Fliondeso"
+    ],
+    "Nearby Cities":{
+      "Flagan": ["30km", "North", "Rail"],
+      "Turner": ["25km", "SouthEast", "Rail"],
+      "Colter Bay": ["20km", "West", "Bus"],
+      "Marcy Lake": ["85km", "South", "Rail", "Air"]
+    }
+  }
+}
